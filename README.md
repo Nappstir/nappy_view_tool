@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+NappyViewTool::Renderer.copyright('Travis Siebenhaar', 'All rights reserved')
+```
 
 ## Development
 
